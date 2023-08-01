@@ -1,3 +1,6 @@
-10.0.2.15 apache_package=apache2
-10.0.2.4 apache_package=apache2
+[web_servers]
+10.0.2.15 
+
+[db_servers]
+10.0.2.4 
 
